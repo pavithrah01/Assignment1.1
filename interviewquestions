@@ -1,0 +1,109 @@
+DATATYPES
+What are the basic data types in Python?
+Explain the difference between mutable and immutable data types.
+What is the difference between a list and a tuple in Python?
+How do you convert one data type to another in Python?
+What is the difference between shallow copy and deep copy in Python?
+How do you check the data type of a variable in Python?
+Explain the concept of typecasting in Python.
+What are the common built-in data structures in Python?
+What is the purpose of the 'None' data type in Python?
+How do you handle complex numbers in Python?
+What is the maximum value that can be represented by the 'int' data type in Python?
+How does Python handle string manipulation and concatenation?
+Explain the concept of slicing in Python.
+How do you compare two objects for equality in Python?
+What is the difference between 'is' and '==' operators in Python?
+How do you check if a variable is of a specific data type in Python?
+Explain the concept of variable scoping in Python.
+How do you handle exceptions and errors in Python?
+What is the difference between a shallow copy and a deep copy in Python?
+Explain the concept of garbage collection in Python.
+
+OPERATORS
+What are the different types of operators in Python?
+Explain the difference between arithmetic, comparison, and logical operators.
+How does operator precedence work in Python?
+What is the purpose of the modulo (%) operator in Python?
+How do you perform exponentiation in Python?
+What is the difference between the 'is' and '==' operators in Python?
+Explain the concept of operator overloading in Python.
+How do you perform bitwise operations in Python?
+What are the assignment operators in Python?
+How do you use the ternary operator in Python?
+What is the purpose of the 'in' and 'not in' operators in Python?
+How do you concatenate strings using the '+' operator in Python?
+Explain the concept of short-circuit evaluation in logical operators.
+How do you use the 'and', 'or', and 'not' operators in Python?
+What is the purpose of the 'isinstance()' function in Python?
+Explain the concept of operator precedence and associativity.
+How do you handle operator errors and exceptions in Python?
+What are the comparison operators available in Python?
+How do you perform type conversion using operators in Python?
+Explain the difference between prefix and postfix operators.
+
+Conditional Statements,
+What are conditional statements in programming?
+What are the different types of conditional statements in Python?
+Explain the syntax of the 'if' statement in Python.
+What is the purpose of the 'else' statement in conditional statements?
+How do you use the 'elif' statement in Python?
+What is the difference between 'if' and 'if-else' statements?
+How do you nest conditional statements in Python?
+Explain the concept of short-circuit evaluation in conditional statements.
+What is the purpose of the 'pass' statement in conditional statements?
+How do you use the 'assert' statement for debugging in Python?
+What is the purpose of the 'break' statement in conditional statements?
+How do you use the 'continue' statement in Python?
+Explain the concept of nested 'if-else' statements.
+What is the purpose of the 'try-except' statement in Python?
+How do you handle multiple conditions using logical operators in conditional statements?
+Explain the difference between '==', 'is', and 'in' operators in conditional statements.
+How do you handle exceptions using the 'try-except-else' statement?
+What are conditional expressions or ternary operators in Python?
+Explain the concept of switch-case statements in Python.
+How do you use the 'assert' statement for testing in Python?
+
+LOOPING STATEMENTS
+What are looping statements in programming?
+What are the different types of looping statements in Python?
+Explain the syntax of the 'for' loop in Python.
+How do you use the 'range' function with the 'for' loop?
+What is the purpose of the 'while' loop in Python?
+How do you break out of a loop in Python?
+What is the purpose of the 'continue' statement in loops?
+Explain the concept of nested loops in Python.
+How do you iterate over elements of a list using a 'for' loop?
+How do you iterate over characters of a string using a 'for' loop?
+Explain the concept of an infinite loop and how to avoid it.
+What is the 'else' clause in loops and when is it executed?
+How do you use the 'enumerate' function with a 'for' loop?
+Explain the concept of a loop control variable.
+What are the advantages of using a 'for' loop over a 'while' loop?
+How do you reverse a loop in Python?
+What is the purpose of the 'pass' statement in loops?
+How do you iterate over a dictionary using a 'for' loop?
+Explain the concept of a loop index in Python.
+How do you use the 'zip' function with a 'for' loop?
+
+FUNCTIONS
+What is a function in programming?
+What are the advantages of using functions in your code?
+How do you define a function in Python?
+What is the difference between function parameters and arguments?
+How do you call a function in Python?
+What is the purpose of the 'return' statement in a function?
+Explain the concept of function recursion.
+What is the Difference between global and local variables in Python?
+How do you pass arguments to a function in Python?
+What is the difference between positional and keyword arguments?
+Explain the concept of default arguments in Python functions.
+How do you handle variable-length arguments in Python functions?
+What are lambda functions and how are they different from regular functions?
+How do you document your functions in Python?
+What is the purpose of the 'pass' statement in function definitions?
+Explain the concept of function overloading in Python.
+How do you use decorators in Python functions?
+What is the difference between a function and a method?
+How do you import and use functions from external modules?
+Explain the concept of a callback function in Python.
